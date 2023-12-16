@@ -1,0 +1,38 @@
+{
+  "students": [
+    {
+      "name": "asik ",
+      "age": 20,
+      "gender": "Male",
+      "skill": "IOS DEVS ",
+      "photo": "https://powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-13.png",
+      "id": 1
+    },
+    {
+      "name": "Mamun mrida",
+      "age": 26,
+      "gender": "Male",
+      "skill": "wordpress DEVS ",
+      "photo": "https://unitedthemes.com/wp-content/uploads/2018/09/team2.jpg",
+      "id": 2
+    },
+    {
+      "name": "Asharafull haque",
+      "age": 34,
+      "gender": "Male",
+      "skill": "All devs",
+      "photo": "https://www.ultimatebeaver.com/wp-content/uploads/2021/04/photo-gallery-img-02.jpg",
+      "id": 3
+    },
+    {
+      "name": "Uttam Roy",
+      "age": 27,
+      "gender": "Male",
+      "skill": " Ethical hacker",
+      "photo": "https://www.rugbyafrique.com/wp-content/uploads/2018/02/team-member.jpg",
+      "id": 4
+    }
+  ],
+  "users": [],
+  "teams": []
+}
